@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/tvaughan/ring-undertow-adapter.png?branch=master)](https://travis-ci.org/tvaughan/ring-undertow-adapter)
+
 # ring-undertow-adapter
 
 A Clojure library designed to ... well, that part is up to you.
